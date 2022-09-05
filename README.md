@@ -6,7 +6,7 @@
 - There is not specified catagory of courses, anyone can get randomize courses like -->
 -  `Personal Development`-->  `Communication improvement and self development related courses `. 
 -  `Development` --> `Programming laguages`, `Databses`, `DevOps`,`Frontend and Backend`. 
--  `Digital Marketing` --> `Facebook ad courses`.
+-  `Digital Marketing` --> `Facebook ad courses`, `SEO Marketing`.
 -  Along with `Accounting`, `Test` related courses and more. 
 
 ## Process :
