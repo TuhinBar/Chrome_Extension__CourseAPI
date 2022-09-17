@@ -13,6 +13,8 @@
 
 - I have creted this extension using my FREE COURSE API. 👉[FREECOURSES_API](https://github.com/TuhinBar/freecourses_API).
 - This is a simple chrome extension using `JavaScript`, `HTML`,`CSS`.
+- I used Fetch to make the API call and temporarily stored them into arrays.
+- Then loffped through the arrays to get the strings and populate to HTML page.
 - You can check out the [Manifest](https://github.com/TuhinBar/Chrome_Extension__CourseAPI/blob/main/manifest.json) here.
 
 ### It is not `illeagal` `THE API IS FETCHING ONLY THOSE COURSES WHICH ARE FREE FOR TODAY USING COUPONS ALSO THESE ARE OFFICAL COURSES`.
