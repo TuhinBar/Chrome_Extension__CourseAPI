@@ -4,7 +4,7 @@ let date = today.getDate()+'-'+ (today.getMonth()+1)+'-'+today.getFullYear();
 const free_course_endpoint =
   "https://freecoursesfetch.herokuapp.com/";
 
-/*Sync GFG daily coding challenge to Todoist*/
+// Fetch free courses
 fetch(free_course_endpoint)
     .then(data => data.json()).then(courses => {
 
