@@ -47,7 +47,6 @@ This whole thing was a quiet of experience. A lot of fun and exitement was in th
 * [Discord](https://discord.com/)
 * [Youtube](https://youtube.com)
 * [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
 * [Color hunt](https://colorhunt.co)
 
 ## Previews
