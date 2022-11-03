@@ -3,7 +3,6 @@
 // function to populate divs for courses
 function createCourseBody(){
   let items = document.querySelector(".items");
-console.log(items);
 for(let i = 1; i <= 10; i++){
   items.innerHTML += `<div class="items-head">
   <p>COURSE: ${i}</p>
