@@ -5,21 +5,21 @@
 - This is a chrome extension which can be very usefull for students from every field. This extension will help anyone to get random free courses from udemy and some coupons from amazon and datacamp. 
 - There is not specified catagory of courses, anyone can get randomize courses like -->
 -  `Personal Development`-->  `Communication improvement and self development related courses `. 
--  `Development` --> `Programming laguages`, `Databses`, `DevOps`,`Frontend and Backend`. 
+-  `Development` --> `Programming languages`, `Databases`, `DevOps`,`Frontend and Backend`. 
 -  `Digital Marketing` --> `Facebook ad courses`, `SEO Marketing`.
 -  Along with `Accounting`, `Test` related courses and more. 
 
 ## Process :
 
-- I have creted this extension using my FREE COURSE API. 👉[FREECOURSES_API](https://github.com/TuhinBar/freecourses_API).
+- I have created this extension using my FREE COURSE API. 👉[FREECOURSES_API](https://github.com/TuhinBar/freecourses_API).
 - This is a simple chrome extension using [![Javascipt](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/) [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html).
-- I used Fetch to make the API call and temporarily stored them into arrays.
-- Then looped through the arrays to get the strings and populate to HTML page.
+- I used Fetch to make the API call and temporarily stored the data into arrays.
+- Then looped through the arrays to get the strings of course names and links and populate them to HTML page.
 - You can check out the [Manifest](https://github.com/TuhinBar/Chrome_Extension__CourseAPI/blob/main/manifest.json) here for this extension, it is required to make a chrome extension. Read more about [Manifest.json](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json#:~:text=Using%20manifest.,scripts%2C%20and%20browser%20actions).
 
 ## Usage
 
-- This extension can be helpful for those who wants to leanr something in a more guided and modular way. Learning from a collection of supervised content can be helpful to learn and understand the topic properly.
+- This extension can be helpful for those who wants to learn something in a more guided and modular way. Learning from a collection of supervised content can be helpful to learn and understand the topic properly.
 
 ### Application and Scope :
 - Anyone can use this extension as a part of their application. This extension can be introduced as a good feature in any learning community webpages.
