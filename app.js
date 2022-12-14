@@ -21,7 +21,7 @@ for(let i = 1; i <= 10; i++){
 // Main function to fetch courses
 function getCourses() {
   // API endpoint to get courses links and details
-  const coursesEndpoint = "https://freecoursesfetch.herokuapp.com/";
+  const coursesEndpoint = "https://freecoursefetch.onrender.com";
 
   // Fetch free courses
   fetch(coursesEndpoint)
